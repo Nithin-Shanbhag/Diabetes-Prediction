@@ -2,7 +2,7 @@
 
 ## Goal: Predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 
-## Housing parameters:
+## Diagnostic Measurements:
 ```
 - Pregnancies - Number of times pregnant
 - Glucose - Plasma glucose concentration a 2 hours in an oral glucose tolerance test
